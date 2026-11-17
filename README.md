@@ -8,6 +8,6 @@ and difficulty mix.
 (prepledger_SAMPLE_leetcode.csv) modeled on the export format of my
 PrepLedger app. It is not my real practice history.
 
-**Tools:** Power BI (cloud), CSV data
+**Tools:** Power BI (cloud) CSV data
 
 ![Dashboard](dashboard.png)
