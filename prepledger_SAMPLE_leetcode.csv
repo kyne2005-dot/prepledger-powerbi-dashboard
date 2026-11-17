@@ -1,0 +1,53 @@
+date,title,difficulty,topic,minutes_taken,revisit,data_type
+2026-10-05,Sample problem 1,Easy,Two Pointers,28,yes,sample
+2026-10-06,Sample problem 2,Easy,Arrays & Hashing,24,yes,sample
+2026-10-07,Sample problem 3,Medium,Trees,36,no,sample
+2026-10-07,Sample problem 4,Easy,Graphs,31,yes,sample
+2026-10-09,Sample problem 5,Medium,Arrays & Hashing,29,no,sample
+2026-10-11,Sample problem 6,Medium,Arrays & Hashing,48,yes,sample
+2026-10-11,Sample problem 7,Easy,Stack,13,no,sample
+2026-10-12,Sample problem 8,Easy,Two Pointers,23,no,sample
+2026-10-12,Sample problem 9,Easy,Two Pointers,29,no,sample
+2026-10-13,Sample problem 10,Easy,Arrays & Hashing,10,no,sample
+2026-10-13,Sample problem 11,Hard,Stack,48,no,sample
+2026-10-14,Sample problem 12,Easy,Stack,8,no,sample
+2026-10-14,Sample problem 13,Easy,Binary Search,28,yes,sample
+2026-10-15,Sample problem 14,Easy,Linked List,16,no,sample
+2026-10-15,Sample problem 15,Easy,Sliding Window,19,no,sample
+2026-10-16,Sample problem 16,Easy,Arrays & Hashing,18,no,sample
+2026-10-17,Sample problem 17,Medium,Trees,25,no,sample
+2026-10-17,Sample problem 18,Easy,Two Pointers,23,no,sample
+2026-10-17,Sample problem 19,Easy,Arrays & Hashing,35,no,sample
+2026-10-18,Sample problem 20,Easy,Stack,8,no,sample
+2026-10-19,Sample problem 21,Medium,Binary Search,16,no,sample
+2026-10-19,Sample problem 22,Easy,Binary Search,11,yes,sample
+2026-10-21,Sample problem 23,Easy,Arrays & Hashing,13,no,sample
+2026-10-21,Sample problem 24,Hard,Arrays & Hashing,60,yes,sample
+2026-10-21,Sample problem 25,Medium,Arrays & Hashing,33,yes,sample
+2026-10-22,Sample problem 26,Hard,Trees,57,no,sample
+2026-10-23,Sample problem 27,Medium,Linked List,32,no,sample
+2026-10-26,Sample problem 28,Medium,Two Pointers,38,no,sample
+2026-10-27,Sample problem 29,Easy,Stack,15,yes,sample
+2026-10-28,Sample problem 30,Easy,Binary Search,19,no,sample
+2026-10-28,Sample problem 31,Medium,Stack,41,no,sample
+2026-10-28,Sample problem 32,Medium,Two Pointers,46,no,sample
+2026-11-02,Sample problem 33,Medium,Arrays & Hashing,33,yes,sample
+2026-11-03,Sample problem 34,Easy,Sliding Window,21,no,sample
+2026-11-03,Sample problem 35,Easy,Two Pointers,27,no,sample
+2026-11-04,Sample problem 36,Medium,Trees,32,no,sample
+2026-11-05,Sample problem 37,Easy,Trees,30,no,sample
+2026-11-05,Sample problem 38,Easy,Sliding Window,25,no,sample
+2026-11-06,Sample problem 39,Easy,Sliding Window,27,no,sample
+2026-11-08,Sample problem 40,Hard,Trees,53,no,sample
+2026-11-09,Sample problem 41,Easy,Stack,15,no,sample
+2026-11-09,Sample problem 42,Hard,Graphs,48,no,sample
+2026-11-10,Sample problem 43,Medium,Arrays & Hashing,45,yes,sample
+2026-11-10,Sample problem 44,Medium,Two Pointers,24,no,sample
+2026-11-10,Sample problem 45,Medium,Trees,31,no,sample
+2026-11-11,Sample problem 46,Easy,Sliding Window,22,no,sample
+2026-11-11,Sample problem 47,Medium,Arrays & Hashing,25,no,sample
+2026-11-12,Sample problem 48,Easy,Arrays & Hashing,18,no,sample
+2026-11-13,Sample problem 49,Medium,Linked List,24,yes,sample
+2026-11-13,Sample problem 50,Medium,Two Pointers,33,yes,sample
+2026-11-16,Sample problem 51,Easy,Sliding Window,9,no,sample
+2026-11-16,Sample problem 52,Medium,Sliding Window,38,no,sample
